@@ -1,0 +1,58 @@
+/* MAIN SECTION */
+body{
+    background-color: #321f28;
+    text-align: center;
+}
+footer{
+    padding-top: 10%;
+    color: aliceblue;
+}
+
+
+/* CLASS SECTION */
+.title{
+    margin: 5rem 0 0;
+    font-size: 7rem;
+}
+.btn:focus {
+    outline: none;
+    box-shadow: none;
+}
+.mainButton{
+    background-color:aliceblue;
+    color: #321f28;
+    margin-top: 4rem;
+}
+.mainButton:hover{
+    background-color:#e79e4f;
+    color: #321f28;
+}
+.footerIcon{
+    color: aliceblue;
+}
+
+.footerIcon:hover{
+    color: #e79e4f;
+}
+
+
+/* ID SECTION */
+
+#header{
+    font-family: 'Lobster', sans-serif;
+    color: aliceblue;
+    font-size: 100rem;
+}
+#generator{
+    margin-top: 3rem;
+}
+#firstDice{
+    color: aliceblue;
+    display: inline-block;
+    margin: 1rem 1rem;
+}
+#secondDice{
+    color: aliceblue;
+    display: inline-block;
+    margin: 1rem 1rem;
+}
